@@ -1,0 +1,6 @@
+{
+  "name": "FrontPage99 — City Digital Front Page",
+  "description": "Your City's Digital Front Page for ₹99/day. One full-screen digital billboard slot per city per 24 hours with a built-in typography poster builder, instant UPI lock, and downloadable 9:16 story kit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
